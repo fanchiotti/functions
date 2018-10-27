@@ -1,2 +1,2 @@
 # functions
-implementing maths' main function in python
+implementing maths' functions in python
